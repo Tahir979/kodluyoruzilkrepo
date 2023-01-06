@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturuduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![](https://imgyukle.com/i/JWsXhb)
+
 ## Installation
 
 Öncelikle projeyi clonelayın
@@ -28,5 +30,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://drive.google.com/file/d/1Gwh0qnsJ8Uw7dpQPMXwqnoUATqLTLT0v/view?usp=share_link)
-
-![Görsel](https://drive.google.com/file/d/1Gwh0qnsJ8Uw7dpQPMXwqnoUATqLTLT0v/view?usp=share_link)
